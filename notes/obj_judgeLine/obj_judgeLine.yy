@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"obj_judgeLine",
+  "name":"obj_judgeLine",
+  "parent":{
+    "name":"PhigrosLoader-sample",
+    "path":"PhigrosLoader-sample.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

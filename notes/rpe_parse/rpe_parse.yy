@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"rpe_parse",
+  "name":"rpe_parse",
+  "parent":{
+    "name":"PhigrosLoader-sample",
+    "path":"PhigrosLoader-sample.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

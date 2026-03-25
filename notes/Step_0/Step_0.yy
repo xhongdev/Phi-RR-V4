@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Step_0",
+  "name":"Step_0",
+  "parent":{
+    "name":"PhigrosLoader-sample",
+    "path":"PhigrosLoader-sample.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

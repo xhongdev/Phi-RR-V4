@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"hyw_line_v3",
+  "name":"hyw_line_v3",
+  "parent":{
+    "name":"PhigrosLoader-sample",
+    "path":"PhigrosLoader-sample.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
