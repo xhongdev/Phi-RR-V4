@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LogOutput",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LogOutput",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

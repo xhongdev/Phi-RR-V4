@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Getchartscore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Getchartscore",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

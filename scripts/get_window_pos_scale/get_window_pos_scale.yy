@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_window_pos_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_window_pos_scale",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

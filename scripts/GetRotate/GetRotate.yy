@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GetRotate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GetRotate",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
